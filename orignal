@@ -1,0 +1,141 @@
+<!-- 中文電子書 -->
+<section class="mb-5">
+<h4 class="mb-4"><i class="bi bi-journal-bookmark-fill me-2 text-primary"></i>中文電子書</h4>
+
+<div class="row g-4"><!-- HyRead -->
+<div class="col-md-6">
+<div class="card h-100 shadow-sm">
+<div class="row g-0 align-items-center">
+<div class="col-4 text-center p-3"><img alt="HyRead 電子書" class="img-fluid rounded" src="/nycu/download/4814" style="max-height:100px;" /></div>
+
+<div class="col-8 p-3">
+<h5 class="card-title mb-1"><a class="text-decoration-none fw-bold" href="https://nycu.ebook.hyread.com.tw" target="_blank">HyRead 電子書</a></h5>
+
+<p class="small text-muted mb-2">提供中文書籍與雜誌，適合通勤與休閒閱讀。</p>
+
+<p class="small mb-2">登入方式：開啟APP，機構搜尋陽明交通大學，輸入學校單一入口帳密。</p>
+
+<div class="d-flex gap-2"><a href="https://play.google.com/store/apps/details?id=com.hyread.reader.v3" target="_blank"><img alt="HyRead Google Play" class="img-fluid" src="/nycu/download/4811" style="max-height:40px;" /></a> <a href="https://apps.apple.com/tw/app/hyread-3-%E7%AB%8B%E5%8D%B3-%E5%9C%96%E6%9B%B8%E9%A4%A8%E5%B0%8F%E8%AA%AA%E9%9B%9C%E8%AA%8C%E9%9B%BB%E5%AD%90%E6%9B%B8/id1098612822?mt=8" target="_blank"><img alt="HyRead App Store" class="img-fluid" src="/nycu/download/4812" style="max-height:40px;" /></a></div>
+</div>
+</div>
+</div>
+</div>
+<!-- iRead -->
+
+<div class="col-md-6">
+<div class="card h-100 shadow-sm">
+<div class="row g-0 align-items-center">
+<div class="col-4 text-center p-3"><img alt="iRead eBooks" class="img-fluid rounded" src="/nycu/download/5615" style="max-height:100px;" /></div>
+
+<div class="col-8 p-3">
+<h5 class="card-title mb-1"><a class="text-decoration-none fw-bold" href="https://nycu.primo.exlibrisgroup.com/permalink/886UST_NYCU/1uq600n/alma991003433014306772" target="_blank">iRead eBooks 華藝電子書</a></h5>
+
+<p class="small text-muted mb-2">學術類中文電子書，涵蓋人文與社會科學等領域。</p>
+
+<p class="small mb-2">登入方式：開啟APP，機構搜尋陽明交通大學，輸入學校單一入口帳密。</p>
+
+<div class="d-flex gap-2"><a href="https://play.google.com/store/apps/details?id=com.airiti.airitireader" target="_blank"><img alt="iRead Google Play" class="img-fluid" src="/nycu/download/4811" style="max-height:40px;" /></a> <a href="https://apps.apple.com/tw/app/airiti-reader/id1486515085?mt=8" target="_blank"><img alt="iRead App Store" class="img-fluid" src="/nycu/download/4812" style="max-height:40px;" /></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- 西文電子書 -->
+
+<h4 class="mb-4"><i class="bi bi-newspaper me-2 text-primary"></i>期刊雜誌</h4>
+
+<section class="mb-5">
+<div class="row g-4"><!-- The Economist -->
+<div class="col-md-6">
+<div class="card h-100 shadow-sm">
+<div class="row g-0 align-items-center">
+<div class="col-4 text-center p-3"><img alt="The Economist" class="img-fluid rounded" src="/nycu/download/4855" style="max-height:100px;" /></div>
+
+<div class="col-8 p-3">
+<h5 class="card-title mb-1"><a class="text-decoration-none fw-bold" href="https://www.economist.com/printedition/covers?print_region=76980" target="_blank">The Economist</a></h5>
+
+<p class="small text-muted mb-2">英國《經濟學人》提供全球時事、經濟與財經分析。</p>
+
+<p class="small mb-2">登入方式：輸入指定帳密登入。帳密查詢：<a href="https://apply.lib.nycu.edu.tw/singleJournalAccess/0013-0613" target="_blank">點此</a></p>
+
+<div class="d-flex gap-2"><a href="https://play.google.com/store/apps/details?id=com.economist.lamarr&amp;hl=en_GB" target="_blank"><img alt="Economist Google Play" class="img-fluid" src="/nycu/download/4811" style="max-height:40px;" /></a> <a href="https://apps.apple.com/us/app/the-economist/id1239397626?mt=8" target="_blank"><img alt="Economist App Store" class="img-fluid" src="/nycu/download/4812" style="max-height:40px;" /></a></div>
+</div>
+</div>
+</div>
+</div>
+<!-- Microwave Journal -->
+
+<div class="col-md-6">
+<div class="card h-100 shadow-sm">
+<div class="row g-0 align-items-center">
+<div class="col-4 text-center p-3"><img alt="Microwave Journal" class="img-fluid rounded" src="/nycu/download/4857" style="max-height:100px;" /></div>
+
+<div class="col-8 p-3">
+<h5 class="card-title mb-1"><a class="text-decoration-none fw-bold" href="https://www.microwavejournal.com" target="_blank">Microwave Journal Magazine</a></h5>
+
+<p class="small text-muted mb-2">提供微波與射頻通訊產業之技術與新聞。</p>
+
+<p class="small mb-2">登入方式：輸入指定帳密登入。帳密查詢：<a href="https://apply.lib.nycu.edu.tw/singleJournalAccess/0192-6225" target="_blank">點此</a></p>
+
+<div class="d-flex gap-2"><a href="https://play.google.com/store/apps/details?id=com.advancedpublishing.mwjournal" target="_blank"><img alt="Microwave Journal Google Play" class="img-fluid" src="/nycu/download/4811" style="max-height:40px;" /></a> <a href="https://apps.apple.com/us/app/microwave-journal-magazine/id580173063?mt=8" target="_blank"><img alt="Microwave Journal App Store" class="img-fluid" src="/nycu/download/4812" style="max-height:40px;" /></a><br />
+&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- 管理 -->
+
+<section class="mb-5">
+<h4 class="mb-4">&nbsp;</h4>
+
+<h4 class="mb-4"><i class="bi bi-gear-fill me-2 text-primary"></i>管理</h4>
+
+<div class="row g-4">
+<div class="col-md-6">
+<div class="card h-100 shadow-sm">
+<div class="row g-0 align-items-center">
+<div class="col-4 text-center p-3"><img alt="EndNote" class="img-fluid rounded" src="/nycu/download/4840" style="max-height:100px;" /></div>
+
+<div class="col-8 p-3">
+<h5 class="card-title mb-1"><a class="text-decoration-none fw-bold" href="https://nycu.primo.exlibrisgroup.com/permalink/886UST_NYCU/1uant07/alma991003433404506772" target="_blank">EndNote</a></h5>
+
+<p class="small text-muted mb-2">書目管理工具，可同步電腦版、雲端版與手機 App。</p>
+
+<p class="small mb-2">登入方式：註冊帳號後登入 App。<br />
+登入說明：<a href="https://www.lib.nycu.edu.tw/attach/download/id-5963/" target="_blank">點此</a></p>
+
+<div class="d-flex gap-2"><a href="https://apps.apple.com/tw/app/endnote/id593994211?mt=8" target="_blank"><img alt="EndNote App Store" class="img-fluid" src="/nycu/download/4812" style="max-height:40px;" /></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- 音樂 -->
+
+<section class="mb-5">
+<h4 class="mb-4"><i class="bi bi-music-note-list me-2 text-primary"></i>音樂</h4>
+
+<div class="row g-4">
+<div class="col-md-6">
+<div class="card h-100 shadow-sm">
+<div class="row g-0 align-items-center">
+<div class="col-4 text-center p-3"><img alt="Naxos Music Library" class="img-fluid rounded" src="/nycu/download/4839" style="max-height:100px;" /></div>
+
+<div class="col-8 p-3">
+<h5 class="card-title mb-1"><a class="text-decoration-none fw-bold" href="https://nycu.primo.exlibrisgroup.com/permalink/886UST_NYCU/1uq600n/alma991003432915306772" target="_blank">Naxos Music Library</a></h5>
+
+<p class="small text-muted mb-2">古典音樂線上聽，提供高音質曲庫與播放清單功能。</p>
+
+<p class="small mb-2">登入方式：校內網路開啟 <a href="https://nycu.naxosmusiclibrary.com" target="_blank">NML 網站</a>，註冊帳號後登入 App。</p>
+
+<div class="d-flex gap-2"><a href="https://play.google.com/store/apps/details?id=com.naxos.nml" target="_blank"><img alt="NML Google Play" class="img-fluid" src="/nycu/download/4811" style="max-height:40px;" /></a> <a href="https://apps.apple.com/us/app/nml/id338059159?mt=8" target="_blank"><img alt="NML App Store" class="img-fluid" src="/nycu/download/4812" style="max-height:40px;" /></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</section>
