@@ -90,45 +90,31 @@
 <!-- 管理 -->
 
 <section class="mb-5">
-<h4 class="mb-4">&nbsp;</h4>
-
 <h4 class="mb-4"><i class="bi bi-gear-fill me-2 text-primary"></i>管理</h4>
-
 <div class="row g-4">
 <div class="col-md-6">
 <div class="card h-100 shadow-sm">
 <div class="row g-0 align-items-center">
 <div class="col-4 text-center p-3"><img alt="EndNote" class="img-fluid rounded" src="/nycu/download/4840" style="max-height:100px;" /></div>
-
 <div class="col-8 p-3">
 <h5 class="card-title mb-1"><a class="text-decoration-none fw-bold" href="https://nycu.primo.exlibrisgroup.com/permalink/886UST_NYCU/1uant07/alma991003433404506772" target="_blank">EndNote</a></h5>
-
 <p class="small text-muted mb-2">書目管理工具，可同步電腦版、雲端版與手機 App。</p>
-
-<p class="small mb-2">登入方式：註冊帳號後登入 App。<br />
-登入說明：<a href="https://www.lib.nycu.edu.tw/attach/download/id-5963/" target="_blank">點此</a></p>
-
+<p class="small mb-2">登入方式：註冊帳號後登入 App。登入說明：<a href="https://www.lib.nycu.edu.tw/attach/download/id-5963/" target="_blank">點此</a></p>
 <div class="d-flex gap-2"><a href="https://apps.apple.com/tw/app/endnote/id593994211?mt=8" target="_blank"><img alt="EndNote App Store" class="img-fluid" src="/nycu/download/4812" style="max-height:40px;" /></a></div>
 </div>
 </div>
 </div>
 </div>
-</div>
-<!-- BrowZine -->
-
 <div class="col-md-6">
 <div class="card h-100 shadow-sm">
 <div class="row g-0 align-items-center">
 <div class="col-4 text-center p-3"><img alt="BrowZine" class="img-fluid rounded" src="/nycu/download/7278" style="max-height:100px;" /></div>
-
 <div class="col-8 p-3">
 <h5 class="card-title mb-1"><a class="text-decoration-none fw-bold" href="https://nycu.primo.exlibrisgroup.com/permalink/886UST_NYCU/19ucq47/alma991003611210706772" target="_blank">BrowZine</a></h5>
-
 <p class="small text-muted mb-2">視覺化學術期刊瀏覽工具，提供個人書架與跨裝置同步功能。</p>
-
 <p class="small mb-2">登入方式：註冊帳號後登入 App。登入說明：<a href="https://news.lib.nycu.edu.tw/researches/browzine/" target="_blank">點此</a></p>
-
 <div class="d-flex gap-2"><a href="https://play.google.com/store/apps/details?id=com.browzine&amp;pcampaignid=web_share" target="_blank"><img alt="BrowZine Google Play" class="img-fluid" src="/nycu/download/4811" style="max-height:40px;" /></a> <a href="https://apps.apple.com/tw/app/browzine/id463787411" target="_blank"><img alt="BrowZine App Store" class="img-fluid" src="/nycu/download/4812" style="max-height:40px;" /></a></div>
+</div>
 </div>
 </div>
 </div>
